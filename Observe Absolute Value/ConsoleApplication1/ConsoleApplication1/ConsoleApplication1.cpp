@@ -6,14 +6,13 @@ using namespace std;
 
 int main()
 {
-
     double number;
     
     double absValue;
     cout << "Lets observe the absolute value to any number!\n";
     cout << "Input any number on the number line: ";
     cin >> number;
-
+    
     if (number < 0) {
         // If the number is less than 0 it is negative. To make it positive we gotta mult by -1
         absValue = number * -1;
