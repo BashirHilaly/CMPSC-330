@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Volumes/T7/School/CMPSCI 330/Lab Coding 2 40 exercise/34",
+      "program": "/Volumes/T7/School/CMPSCI 330/Lab Coding 2 40 exercise/34/build/Debug/outDebug"
+    }
+  ]
+}
